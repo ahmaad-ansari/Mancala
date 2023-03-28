@@ -171,7 +171,7 @@ public class Mancala
 				}
 			}
 		}
-		
+
 		return new int[] {(playerIndex == player) ? alpha : beta, bestIndex};
 	}
 	
@@ -300,7 +300,6 @@ public class Mancala
 				}
 			}
 		}
-		
 		
 		@Override
 		public int compareTo(MancalaMove o) {
