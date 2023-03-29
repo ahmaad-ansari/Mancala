@@ -1,6 +1,6 @@
 # Mancala
-Name: Ahmaad Ansari 
-Student ID: 100785574
+- Name: Ahmaad Ansari 
+- Student ID: 100785574
 ## Introduction
 This is a Python implementation of the board game Mancala with an AI player using the alpha-beta pruning algorithm.
 
